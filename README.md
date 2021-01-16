@@ -9,7 +9,14 @@ Period : 02/01/2021 ~ 10/01/2021
 Framwork : Tensorflow, Keras
 
 ## Introduction
-PMGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) GAN model. 
+PMGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) GAN model.
+
+<!-- <img src=""> /-->
+
+[Bumsoo Kim]()\*
+<br>Graphics Realization Lab, CAU(*)
+
+<!-- ## Result /--> 
 
 ## Requirements
 
