@@ -1,11 +1,11 @@
 # PMGAN
 
-### [Paper]() | [Site]() 
+### [Paper]() | [Site]() | [Youtube]()
 
 *Last updated: 01/16/2021*
 
 Period : 02/01/2021 ~ 10/01/2021
-
+<br>
 Framwork : Tensorflow, Keras
 
 ## Introduction
@@ -15,7 +15,9 @@ PMGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapp
 
 Python 3.8 or later with all [requirements.txt]() dependencies installed.
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 <!-- ## Environment /-->
 
