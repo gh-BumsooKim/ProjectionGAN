@@ -2,10 +2,10 @@
 
 ### [Paper]() | [Site]() | [Youtube]()
 
-*Last updated: 01/16/2021*
+*Last updated: 01/28/2021*
 
 ## Introduction
-PMGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) GAN model.
+PMGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) GAN model. 
 
 <!-- <img src=""> /-->
 
@@ -16,13 +16,17 @@ PMGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapp
 
 ## Requirements
 
-- Windows10
+- **Windows10**
 - **GPU with CC >= 3.0** : [Compute capability (version)](https://en.wikipedia.org/wiki/CUDA#GPUs_supported)
 - **Python 3.8 or later** with all [requirements.txt]() dependencies installed.
 
 ```
 pip install -r requirements.txt
 ```
+
+## Getting Started
+
+- **Quick Setup with Shell is [Here]()**
 
 <!-- ## Environment /-->
 
