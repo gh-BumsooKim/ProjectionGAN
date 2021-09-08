@@ -2,7 +2,7 @@
 <!--
 ### [Paper]() | [Site]() | [Youtube]()/-->
 
-*Last updated: 06/11/2021*
+*Last updated: 09/08/2021*
 
 ## Introduction
 ProjectionGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) GAN model. 
@@ -14,7 +14,17 @@ ProjectionGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Project
 
 <!-- ## Result /--> 
 
-## Implementation Environment
+## Contents
+
+## Test Environment
+
+- **Jetpack 4.6 (ubuntu)**
+
+```
+pip install -r requirements_test.txt
+```
+
+## Training Environment
 
 - **Windows10**
 - **Pytorch**
@@ -22,7 +32,7 @@ ProjectionGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Project
 - **Python 3.8 or later** with all [requirements.txt]() dependencies installed.
 
 ```
-pip install -r requirements.txt
+pip install -r requirements_train.txt
 ```
 
 <!--
