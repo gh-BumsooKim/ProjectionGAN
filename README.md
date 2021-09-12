@@ -2,10 +2,10 @@
 <!--
 ### [Paper]() | [Site]() | [Youtube]()/-->
 
-*Last updated: 09/08/2021*
+*Last updated: 09/12/2021*
 
 ## Introduction
-ProjectionGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) GAN model. 
+**ProjectionGAN** is Real-time Semantic Style Generative Model for [Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) to Movable Object.
 
 <!-- <img src=""> 
 
@@ -14,8 +14,9 @@ ProjectionGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Project
 
 <!-- ## Result /--> 
 
-## Contents
+# Getting Started ProjectionGAN
 
+<!--
 ## Test Environment
 
 - **Jetpack 4.6 (ubuntu)**
@@ -23,6 +24,7 @@ ProjectionGAN is Auto-[Projection Mapping](https://en.wikipedia.org/wiki/Project
 ```
 pip install -r requirements_test.txt
 ```
+-->
 
 ## Training Environment
 
@@ -32,7 +34,11 @@ pip install -r requirements_test.txt
 - **Python 3.8 or later** with all [requirements.txt]() dependencies installed.
 
 ```
-pip install -r requirements_train.txt
+(conda) #recommended
+conda env create -f projection_gan.yml
+
+(pip)
+pip install -r requirements.txt
 ```
 
 <!--
