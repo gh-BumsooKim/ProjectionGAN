@@ -2,10 +2,12 @@
 <!--
 ### [Paper]() | [Site]() | [Youtube]()/-->
 
-*Last updated: 09/12/2021*
+*Last updated: 11/30/2021*
 
-## Introduction
-**ProjectionGAN** is Real-time Semantic Style Generative Model for [Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) to Movable Object.
+**ProjectionGAN** is Real-time Semantic Style Transfer Model for [Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) to Movable Object.
+
+![image](https://user-images.githubusercontent.com/67869508/144027986-8c2e4670-0ff9-4e35-9eaa-1a8b3de664c7.png)
+
 
 <!-- <img src=""> 
 
