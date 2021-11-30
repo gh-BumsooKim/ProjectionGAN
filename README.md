@@ -6,7 +6,7 @@
 
 **ProjectionGAN** is Real-time Semantic Style Transfer Model for [Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) to Movable Object.
 
-![image](https://user-images.githubusercontent.com/67869508/144027986-8c2e4670-0ff9-4e35-9eaa-1a8b3de664c7.png)
+![image](https://user-images.githubusercontent.com/67869508/144040752-71cb97b1-1c25-47b0-91fd-b911e7db2143.png)
 
 
 <!-- <img src=""> 
