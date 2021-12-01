@@ -4,13 +4,21 @@
 
 *Last updated: 11/30/2021*
 
-**ProjectionGAN** is Real-time Semantic Style Transfer Model for [Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) to Movable Object.
+**This is my Bachelor of Engineering Thesis, (2019~2023, Schoolg of Art & Technology, Chung-Ang University.)**
 
-![image](https://user-images.githubusercontent.com/67869508/144092431-497997cf-74e8-434a-8231-68ee88da1495.png)
+<hr>
 
-## Implementation Details
+**ProjectionGAN** is Real-time Semantic Depth Style Transfer Model for [Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) to Movable Object.
 
-![image](https://user-images.githubusercontent.com/67869508/144092416-28437736-a298-4e39-9137-daa6df6e8e70.png)
+![image](https://user-images.githubusercontent.com/67869508/144251933-02e74042-80b4-426b-957c-e451b78e2901.png)
+
+# Implementation Details
+
+![image](https://user-images.githubusercontent.com/67869508/144251880-ba07750d-838c-4575-bbcd-5c50d19034e9.png)
+
+# Experimental Result
+
+![image](https://user-images.githubusercontent.com/67869508/144251794-7ec61d74-6604-45db-bf19-2c2df71e27d3.png)
 
 
 <!-- <img src=""> 
