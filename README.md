@@ -6,6 +6,8 @@
 
 **This is my Bachelor of Engineering Thesis, (2019~2023, Schoolg of Art & Technology, Chung-Ang University.)**
 
+[[Paper]]() (Domestic Conference) Real-time Depth Map Style Transfer in Object-Attention Region for Projection Mapping, NCISS-Winter, 2021. (12.29 Poster)
+
 <hr>
 
 **ProjectionGAN** is Real-time Semantic Depth Style Transfer Model for [Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) to Movable Object.
