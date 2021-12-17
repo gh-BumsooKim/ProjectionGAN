@@ -2,9 +2,13 @@
 <!--
 ### [Paper]() | [Site]() | [Youtube]()/-->
 
-*Last updated: 11/30/2021*
+*Last updated: 12/17/2021*
 
 **This is my Bachelor of Engineering Thesis, (2019~2023, Schoolg of Art & Technology, Chung-Ang University.)**
+
+## History
+
+[[Link]]() (Contest) 2021 CAU COMPASS - LINC+ CAPSTONE DESIGN AWARDS TOP 15 (Engineering and Natural Sciences PART) , Chung-Ang University, 2021. (12.28 Poster)
 
 [[Paper]]() (Domestic Conference) Real-time Depth Map Style Transfer in Object-Attention Region for Projection Mapping, NCISS-Winter, 2021. (12.29 Poster)
 
