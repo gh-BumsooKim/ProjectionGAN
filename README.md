@@ -2,7 +2,7 @@
 <!--
 ### [Paper]() | [Site]() | [Youtube]()/-->
 
-*Last updated: 12/30/2021*
+*Last updated: 01/25/2022*
 
 **This is my Bachelor of Engineering Thesis, (2019~2023, Schoolg of Art & Technology, Chung-Ang University.)**
 
@@ -17,6 +17,10 @@
 **ProjectionGAN** is Real-time Semantic Depth Style Transfer Model for [Projection Mapping](https://en.wikipedia.org/wiki/Projection_mapping) to Movable Object.
 
 ![image](https://user-images.githubusercontent.com/67869508/144694654-1f4d1da4-23e1-4dcd-ac3f-c529a5cff39e.png)
+
+- **[How to do Depth Segmentation](https://github.com/gh-BumsooKim/Decoding-Depth2RGB-and-Segmentation)**
+- **[How to do Depth Style Trasnfer](https://github.com/gh-BumsooKim/Real-time-Depth-Style-Transfer)**
+- **[How to do DCamera-Projector Calibration](https://github.com/gh-BumsooKim/d-CPCT)**
 
 # Implementation Details
 
